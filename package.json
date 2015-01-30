@@ -1,0 +1,27 @@
+{
+  "name": "feather-preprocessor-standard-before",
+  "version": "0.1.0",
+  "description": "extend standard preprocessor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/feather-ui/feather-preprocessor-standard-before.git"
+  },
+  "author": {
+    "name": "jsyczhanghao@sina.com"
+  },
+  "bin": {
+    "feather": "bin/feather"
+  },
+  "license": "ISC",
+  "keyword": [
+        "feather",
+        "frontend",
+        "industrialized framework"
+    ],
+  "dependencies": {
+  }
+}
