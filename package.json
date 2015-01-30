@@ -13,14 +13,10 @@
   "author": {
     "name": "jsyczhanghao@sina.com"
   },
-  "bin": {
-    "feather": "bin/feather"
-  },
   "license": "ISC",
   "keyword": [
         "feather",
-        "frontend",
-        "industrialized framework"
+        "standard"
     ],
   "dependencies": {
   }
