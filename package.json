@@ -1,6 +1,6 @@
 {
   "name": "feather-preprocessor-standard-before",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "extend standard preprocessor",
   "main": "index.js",
   "scripts": {
