@@ -15,6 +15,8 @@ function extendUriBefore(content, file){
                     hash = feather.compile.settings.hash && hash;
                     domain = feather.compile.settings.domain && domain;
 
+                    feather.compile(info.file);
+
                     var query = (info.file.query && info.query) ? '&' + info.query.substring(1) : info.query;
                     var url = info.file.getUrl(hash, domain);
                     var hash = info.hash || info.file.hash;
